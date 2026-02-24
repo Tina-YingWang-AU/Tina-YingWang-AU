@@ -1,6 +1,6 @@
 # Hi, I'm Tina | FSA & Software Developer 🚀
 
-I am a **Fellow of the Society of Actuaries (FSA)** with a professional background in **Actuarial Valuation, Audit, and Capital Management**. 
+I am a **Fellow of the Society of Actuaries (FSA)** with a professional background in **Actuarial Valuation, Actuarial Audit, Risk Management and Capital Management**. 
 
 Currently, I am transitioning into Software Engineering, focusing on building data-driven applications and backend systems with Python, SQL, and C#.
 
