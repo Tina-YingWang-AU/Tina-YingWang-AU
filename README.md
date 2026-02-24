@@ -19,7 +19,8 @@ Currently, I am transitioning into Software Engineering, focusing on building da
 
 ### 🌐 Systems & Infrastructure
 * **Linux Essentials** – NDG/Linux Professional Institute
-* **Networking Basics & Cybersecurity** – Cisco Networking Academy
+* **Networking Basics** – Cisco Networking Academy
+* **Introduction to Cybersecurity** – Cisco Networking Academy
 
 ---
 
