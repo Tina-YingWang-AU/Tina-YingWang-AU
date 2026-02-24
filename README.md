@@ -33,7 +33,7 @@ Designed and implemented 5 PostgreSQL systems, including automated ETL pipelines
 Developed 5 logic-intensive applications focusing on Object-Oriented Programming and recursive algorithms.
 
 ### 🏛️ [TAFE Projects - C# and Python](https://github.com/Tina-YingWang-AU/TAFE-IT-Portfolio)
-Academic and professional projects centered on C#/.NET architecture and systematic software documentation.
+Academic and professional projects centered on **C#/.NET** and **Python** architecture, emphasizing systematic software documentation and robust system design.
 
 ---
 
